@@ -3,6 +3,8 @@
     padding:0;
 }
 h1 {
+    text-align: center;
+    background-image: radial-gradient(transparent, red, transparent);
     margin-bottom:50px;
 }
 .buttons {
@@ -17,6 +19,15 @@ div {
 }
 .button {
     width:80px;
+    margin-bottom:80px;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: black;
+    color:white;
 }
 
 
